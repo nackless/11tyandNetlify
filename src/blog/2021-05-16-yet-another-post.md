@@ -1,7 +1,7 @@
 ---
 title: Yet another post
 author: Kevin Powell
-date: 2021-05-16
+date: 2021-07-16
 tags: ["post", "featured"]
 image: /assets/blog/article-1.jpg
 imageAlt: This is a test
