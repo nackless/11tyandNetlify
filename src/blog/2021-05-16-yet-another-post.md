@@ -1,6 +1,6 @@
 ---
 title: Yet another post
-author: Kevin Powell
+author: Aman Paul
 date: 2021-07-16
 tags: ["post", "featured"]
 image: /assets/blog/article-1.jpg
