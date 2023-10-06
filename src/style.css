@@ -394,6 +394,15 @@ section,
   font-family: 'Parisienne', cursive;
 }
 
+.main__description {
+  font-family: 'Parisienne', cursive;
+  font-size: x-large;
+}
+
+.title__look {
+  font-family: 'Parisienne', cursive;
+}
+
 .page__subtitle__main {
   text-align: center;
 }
